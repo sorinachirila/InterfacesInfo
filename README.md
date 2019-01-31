@@ -1,5 +1,5 @@
 # Interfaces
-This repository contains a technology project made with Java, Maven.
+This repository contains a project made with Java, Maven.
 
 # Project requirements
 1. Add an interface Info with one method 
